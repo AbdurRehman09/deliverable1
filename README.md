@@ -1,7 +1,5 @@
-For database  connection:
-use basedata.sql file 
-open the applications.properties file. Change the username and password to the database's username and password.
-To fix errors:
-To check if the database has been connected:
-You will find some new tables in the database after you run the basedata.sql
-In admincontroller.dao a wrong function has been used. 'Execute' instead of 'executeQuery'
+1)Bug Fixed User Logout 
+  .Before 
+![image](https://github.com/AbdurRehman09/deliverable1/assets/102360654/a9ea791d-73f8-4b46-b27d-7c5ff0b84ec4)
+
+
