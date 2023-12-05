@@ -100,6 +100,7 @@ Issue was it should go to Admin Login instead of User Login
 
 
 
+For Selenium Testing i used the google chrome extension of selenium and then record the way E2E (in such a way that all corrected bugs are shown).
 
 
    
